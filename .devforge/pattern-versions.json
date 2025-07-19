@@ -1,0 +1,117 @@
+{
+  "architectural/fastapi-modular-architecture.md": {
+    "hash": "902c5f24",
+    "last_updated": "2025-07-19T13:48:36.328909",
+    "source": "devforge"
+  },
+  "architectural/centralized-resource-management.md": {
+    "hash": "f0169e1d",
+    "last_updated": "2025-07-19T13:48:36.328974",
+    "source": "devforge"
+  },
+  ".versions/template_1.0.md": {
+    "hash": "82299b29",
+    "last_updated": "2025-07-19T13:48:36.329029",
+    "source": "devforge"
+  },
+  ".versions/README_1.0.md": {
+    "hash": "b0b73de2",
+    "last_updated": "2025-07-19T13:48:36.329095",
+    "source": "devforge"
+  },
+  ".versions/version_index.md": {
+    "hash": "b34e8a70",
+    "last_updated": "2025-07-19T13:48:36.329137",
+    "source": "devforge"
+  },
+  "operational/process-watcher-system.md": {
+    "hash": "21d499a5",
+    "last_updated": "2025-07-19T13:48:36.329232",
+    "source": "devforge"
+  },
+  "operational/centralized-pid-management.md": {
+    "hash": "f67b9906",
+    "last_updated": "2025-07-19T13:48:36.329288",
+    "source": "devforge"
+  },
+  "workflow/pythonpath-management.md": {
+    "hash": "3c49bca2",
+    "last_updated": "2025-07-19T13:48:36.329356",
+    "source": "devforge"
+  },
+  "workflow/stage-runner-management.md": {
+    "hash": "7b28acdd",
+    "last_updated": "2025-07-19T13:48:36.329407",
+    "source": "devforge"
+  },
+  "workflow/modular-checklist-system.md": {
+    "hash": "91b62ce1",
+    "last_updated": "2025-07-19T13:48:36.329449",
+    "source": "devforge"
+  },
+  "performance/parallel-continuous-benchmarking.md": {
+    "hash": "acfa202a",
+    "last_updated": "2025-07-19T13:48:36.329527",
+    "source": "devforge"
+  },
+  "architectural/.versions/centralized-resource-management_1.0.md": {
+    "hash": "2f519a8e",
+    "last_updated": "2025-07-19T13:48:36.329629",
+    "source": "devforge"
+  },
+  "architectural/.versions/fastapi-modular-architecture_1.0.md": {
+    "hash": "2c65b85d",
+    "last_updated": "2025-07-19T13:48:36.329698",
+    "source": "devforge"
+  },
+  "architectural/.versions/version_index.md": {
+    "hash": "df674a28",
+    "last_updated": "2025-07-19T13:48:36.329738",
+    "source": "devforge"
+  },
+  "operational/.versions/centralized-pid-management_1.0.md": {
+    "hash": "f9ac38b4",
+    "last_updated": "2025-07-19T13:48:36.329858",
+    "source": "devforge"
+  },
+  "operational/.versions/process-watcher-system_1.0.md": {
+    "hash": "7d2c71c9",
+    "last_updated": "2025-07-19T13:48:36.329913",
+    "source": "devforge"
+  },
+  "operational/.versions/version_index.md": {
+    "hash": "3e30e528",
+    "last_updated": "2025-07-19T13:48:36.329950",
+    "source": "devforge"
+  },
+  "workflow/.versions/pythonpath-management_1.0.md": {
+    "hash": "ce1534af",
+    "last_updated": "2025-07-19T13:48:36.330154",
+    "source": "devforge"
+  },
+  "workflow/.versions/stage-runner-management_1.0.md": {
+    "hash": "ea3247a6",
+    "last_updated": "2025-07-19T13:48:36.330201",
+    "source": "devforge"
+  },
+  "workflow/.versions/modular-checklist-system_1.0.md": {
+    "hash": "15599ee8",
+    "last_updated": "2025-07-19T13:48:36.330236",
+    "source": "devforge"
+  },
+  "workflow/.versions/version_index.md": {
+    "hash": "6fcac952",
+    "last_updated": "2025-07-19T13:48:36.330272",
+    "source": "devforge"
+  },
+  "performance/.versions/parallel-continuous-benchmarking_1.0.md": {
+    "hash": "ac2b1f76",
+    "last_updated": "2025-07-19T13:48:36.330353",
+    "source": "devforge"
+  },
+  "performance/.versions/version_index.md": {
+    "hash": "7fdfa501",
+    "last_updated": "2025-07-19T13:48:36.330388",
+    "source": "devforge"
+  }
+}

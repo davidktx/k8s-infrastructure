@@ -1,0 +1,41 @@
+{
+  "project_name": "stocks",
+  "devforge_repo": "/home/david/Documents/GitHub/devforge",
+  "group_membership": [
+    "websites"
+  ],
+  "group_config": {
+    "websites": {
+      "role": "secondary",
+      "specific_config": {}
+    }
+  },
+  "project_type": "website",
+  "description": "Stocks website project",
+  "created": "2025-01-19",
+  "last_updated": "2025-01-19",
+  "status": "active",
+  "sync_mode": "manual",
+  "patterns_enabled": true,
+  "documentation_enabled": true,
+  "checklist_enabled": true,
+  "project_config": {
+    "documentation_sync": true,
+    "pattern_inheritance": true,
+    "checklist_integration": true,
+    "version_control": true
+  },
+  "contacts": {
+    "project_owner": "david",
+    "technical_lead": "david",
+    "devforge_coordinator": "david"
+  },
+  "technology_stack": [],
+  "dependencies": [],
+  "roadmap": {
+    "current_quarter": [],
+    "next_quarter": [],
+    "future_plans": []
+  },
+  "last_sync": "2025-07-19T13:48:45.759291"
+}
